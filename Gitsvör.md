@@ -8,4 +8,8 @@
 * git clone = "clone git directory" og byr til annað eins repositary hjá þér og er á server hjá þeim
 * git status = "state of working area" og er staða af working directory og staging area
 * git diff = "difference" sýnir muninn á skjall fyrir commit frá "git commit"
+## svar 3
+* git log = "history" synar allt sem er buið að vera að gera
+* git checkout = tells git að skrá niður allar breytingar
+* git branch = create, list, rename and delete og notuð með git checkout oftast
 

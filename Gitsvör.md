@@ -14,5 +14,7 @@
 * git branch = create, list, rename and delete og notuð með git checkout oftast.
 ## svar 4
 * til að tracka source code changes.
+## svar 5
+* það geta margir verið að nota sama efni því Git er bara local.
 
 

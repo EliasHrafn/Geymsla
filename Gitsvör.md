@@ -12,4 +12,7 @@
 * git log = "history" synar allt sem er buið að vera að gera.
 * git checkout = tells git að skrá niður allar breytingar.
 * git branch = create, list, rename and delete og notuð með git checkout oftast.
+## svar 4
+* til að tracka source code changes.
+
 

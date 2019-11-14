@@ -16,5 +16,7 @@
 * til að tracka source code changes.
 ## svar 5
 * það geta margir verið að nota sama efni því Git er bara local.
+## svar 6
+* eins oft og þú ert búinn að vinna eitthvað í hlutum/verkefnum.
 
 

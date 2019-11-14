@@ -18,5 +18,6 @@
 * það geta margir verið að nota sama efni því Git er bara local.
 ## svar 6
 * eins oft og þú ert búinn að vinna eitthvað í hlutum/verkefnum.
-
+## svar 7
+* þú ert í working area, en staging area er allt sem ér buið að commita en á eftir að vera pushað inná skýið
 

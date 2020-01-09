@@ -15,7 +15,7 @@
 ## svar 4
 * til að tracka source code changes.
 ## svar 5
-* það geta margir verið að nota sama efni því Git er bara local.
+* það geta margir verið að nota sama efni því Git er bara local. _Hér get ég sagt mína skoðun á Git umsjónarkerfinu… þitt álit_  
 ## svar 6
 * eins oft og þú ert búinn að vinna eitthvað í hlutum/verkefnum.
 ## svar 7
